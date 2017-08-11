@@ -6,7 +6,7 @@ permalink: /about/
 
 I like pizza.
 
-### Projects I contribute
+### Projects I contribute to
 
 + [UFSCkite](http://ufsckite.gitlab.io): Research on Airborne Wind Energy
 
