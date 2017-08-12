@@ -1,0 +1,55 @@
+O aprendizado por Árvore de Decisão (DT) é um método que permite a modelagem de sistemas discretos 
+em que o modelo obtido é uma Árvore de Decisão, sendo um método muito utilizado para a inferência 
+indutiva por ser robusto a ruído nos dados, além de ser de simples compreensão, 
+permitindo uma representação gráfica do modelo gerado.
+
+Outras razões motivam a popularidade desse método, como a simplicidade em se
+montar as árvores, com algoritmos eficientes que escalam bem com o aumento do tamanho
+da base de dados utilizada. Outro ponto é que a maioria dos algoritmos podem trabalhar
+tanto com variáveis de entrada contínuas quanto categóricas. Além disso, as árvores de
+decisão são não-paramétricas, ou seja, não necessitam de nenhuma informação a priori
+quanto à distribuição dos atributos de entrada ou da função-objetivo.
+
+A sua representação consiste em uma estrutura em que cada nodo interno cor-
+responde a um teste sobre um dado atributo, cada ramo descendente representa uma
+possibilidade para esse teste e cada folha, contendo a classe respectiva às instâncias por ela
+classificadas, é a decisão obtida após testar os atributos de forma sequencial. O caminho
+percorrido para chegar à classe corresponde a uma regra de classificação.
+
+### Entropia
+
+A entropia caracteriza a organização de uma coleção de exemplos [15]. Dado um
+conjunto S , contendo valores positivos e negativos para um atributo-alvo, a entropia de S
+relativa à essa classificação é dada por:
+
+AQUI VAI EQUACAO
+
+onde p + é a proporção de exemplos em que a saída é positiva e p − a proporção de exemplos
+em que a saída é negativa. Para os cálculos envolvendo entropia se assumirá 0 log 2 0 como
+sendo 0.
+
+Ao analisar a Equação (3.4) , nota-se que a entropia é 0 quando todos os elementos
+de S pertencem à mesma classe, e 1 quando a coleção contém um mesmo número de
+Capítulo 3. Fundamentação 20
+elementos cuja saída é positiva e negativa. Além disso, o resultado da soma entre p + e p −
+sempre será 1, de forma que pode-se escrever p − = 1 − p + . A Figura 3 mostra a relação
+entre a proporção p + e a entropia.
+
+AQUI VAI A FIGURA
+
+### Ganho de Informação
+
+Utilizando a entropia, que representa a medida da impureza de um conjunto de
+exemplos de treinamento, pode-se definir uma medida para a eficácia de um atributo em
+classificar esses exemplos [16], [17]. Essa medida é chamada ganho de informação, e é
+definida como:
+
+AQUI VAI EQUACAO
+
+onde V alues ( A ) são todos os valores possíveis para o atributo A e S v é o subconjunto de
+S em que o atributo A tem valor v, i.e.:
+
+AQUI VAI EQUACAO
+
+O ganho de informação mede, então, a redução esperada da entropia ao classificar
+um conjunto utilizando determinado atributo.
