@@ -6,6 +6,18 @@ permalink: /about/
 
 I like pizza.
 
+### Areas of interest
+
++ Non linear control
+
++ Mobile Robotics
+
++ Artificial Inteligence and Machine Learning
+
++ Power electronics
+
++ Renewable energy
+
 ### Projects I contribute to
 
 + [UFSCkite](http://ufsckite.gitlab.io): Research on Airborne Wind Energy
@@ -17,5 +29,7 @@ I like pizza.
 ### More Information
 
 I'm a Control and Automation Engineer.
+
 Also a master's student.
+
 Also a violinist.
