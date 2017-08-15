@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Árvore de Decisão!
+title: Árvore de Decisão
 ---
 
 O aprendizado por Árvore de Decisão (DT) é um método que permite a modelagem de sistemas discretos 
