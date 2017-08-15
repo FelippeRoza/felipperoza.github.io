@@ -39,7 +39,15 @@ elementos cuja saída é positiva e negativa. Além disso, o resultado da soma e
 sempre será 1, de forma que pode-se escrever p− = 1 − p+ . A figura abaixo mostra a relação
 entre a proporção p+ e a entropia:
 
-![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/entropy_p_function.png "Title")
+![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/entropy_p_function.png "Entropia de S em função de p+")
+
+Generalizando o cálculo da entropia para casos em que o atributo-objetivo possui
+mais que dois valores possíveis, define-se a entropia como:
+
+![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/entropy_n.png)
+
+onde p*i* é a proporção de *S* pertencente à classe *i* e *c* é o número de classes do atributo-
+objetivo.
 
 ### Ganho de Informação
 
