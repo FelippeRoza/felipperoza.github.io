@@ -39,12 +39,12 @@ elementos cuja saída é positiva e negativa. Além disso, o resultado da soma e
 sempre será 1, de forma que pode-se escrever p− = 1 − p+ . A figura abaixo mostra a relação
 entre a proporção p+ e a entropia:
 
-![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/entropy_p_function.png "Entropia de S em função de p+")
+![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/entropy_p_function.png?raw=true "Entropia de S em função de p+")
 
 Generalizando o cálculo da entropia para casos em que o atributo-objetivo possui
 mais que dois valores possíveis, define-se a entropia como:
 
-![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/entropy_n.png)
+![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/entropy_n.png?raw=true)
 
 onde p*i* é a proporção de *S* pertencente à classe *i* e *c* é o número de classes do atributo-
 objetivo.
@@ -56,12 +56,12 @@ exemplos de treinamento, pode-se definir uma medida para a eficácia de um atrib
 classificar esses exemplos. Essa medida é chamada ganho de informação, e é
 definida como:
 
-![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/information_gain.png)
+![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/information_gain.png?raw=true)
 
 onde V alues ( A ) são todos os valores possíveis para o atributo A e S v é o subconjunto de
 S em que o atributo A tem valor v, i.e.:
 
-![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/sub_A.png)
+![Alt text](https://github.com/FelippeRoza/felipperoza.github.io/blob/new-post/images/decision-tree/sub_A.png?raw=true)
 
 O ganho de informação mede, então, a redução esperada da entropia ao classificar
 um conjunto utilizando determinado atributo.
