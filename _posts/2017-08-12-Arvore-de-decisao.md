@@ -1,3 +1,8 @@
+---
+layout: post
+title: Árvore de Decisão!
+---
+
 O aprendizado por Árvore de Decisão (DT) é um método que permite a modelagem de sistemas discretos 
 em que o modelo obtido é uma Árvore de Decisão, sendo um método muito utilizado para a inferência 
 indutiva por ser robusto a ruído nos dados, além de ser de simples compreensão, 
