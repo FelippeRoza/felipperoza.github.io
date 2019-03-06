@@ -4,19 +4,42 @@ title: About
 permalink: /about/
 ---
 
-I like pizza.
+My name is Felippe, a control engineer from Brazil. 
+Currently I hold a PhD position at TUK, Germany, working with reinforcement learning applied to
+self driving cars. My main goal is to develop an adaptive control system able to update the 
+car behavior by using its experience (experience meaning data gathered while the car is running).
 
 ### Areas of interest
 
-+ Non linear control
++ Artificial Intelligence and Machine Learning
+  + Reinforcement learning
+  + Deep learning
+  + Optimization methods
+    + p.s.: miss those times when generic algorithms were trending. Such a nice idea.
 
-+ Mobile Robotics
++ Autonomous Vehicles / Mobile Robotics
+  + Modeling and simulation
+  + Computer vision
 
-+ Artificial Inteligence and Machine Learning
++ Renewable Energy
+  + Wind power systems
+  + Airborne wind energy
+  + Maximum power point tracking
 
-+ Power electronics
++ Control Systems 
+  + Non-linear control
+  + Model predictive control
 
-+ Renewable energy
++ Power Electronics
+  + Power switching supply
+
+### Languages
+
++ Python for the win
+
++ R
+
++ C/C++
 
 ### Projects I contribute to
 
@@ -28,8 +51,4 @@ I like pizza.
 
 ### More Information
 
-I'm a Control and Automation Engineer.
-
-Also a master's student.
-
-Also a violinist.
+Although I like pizza, playing violin is ways better.
