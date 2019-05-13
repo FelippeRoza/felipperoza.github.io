@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Artificial Artist: Can Artificial Intelligence create art?
+title: Artificial Artist - Can Artificial Intelligence create art?
 ---
 
 Art is a utterly important tool that allow human beings to express emotions and ideas created in our imagination. It plays a fundamental role in a social context that can also be entertaining and bring insight and understanding.
