@@ -46,7 +46,7 @@ A bit about my working experience: I have worked as a professional violinist, el
 
 ### Preferred Languages
 
-+ Python for the win
++ Python
 
 + R
 
@@ -62,6 +62,3 @@ A bit about my working experience: I have worked as a professional violinist, el
 
 + [Frescobaldi](http://frescobaldi.org/): [LilyPond](http://lilypond.org/) text editor
 
-### More Information
-
-Although I like pizza, playing violin is ways better.
