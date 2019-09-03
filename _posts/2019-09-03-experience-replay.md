@@ -1,4 +1,8 @@
-# Revisiting previous experiences can help artificial systems to learn faster
+---
+layout: post
+title: Revisiting previous experiences can help artificial systems to learn faster
+---
+
 ## Prioritized Experience Replay proposes mixing new and old experiences in order to speed up learning
 
 Reinforcement Learning (RL) is a framework with a great potential to be the basis for the "next level" artificial intelligence, what is so called human-level AI. In [1], Nils J. Nilsson describes this next level as:
