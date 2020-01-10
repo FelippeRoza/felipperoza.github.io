@@ -3,8 +3,6 @@ layout: post
 title: Active Learning
 ---
 
-## Active Learning
-
 Machine Learning (ML) has revolutionized the world in the past decades, allowing to solve problems infeasible for other methods. Despite its potential, many technical and practical challenges face those who work with ML. One example is the necessary effort to produce the datasets on which the models are trained. With the complexity and size of the problems we are currently trying to solve, labeling the available data becomes an expensive task (in terms of money and time), since much of the process has to be done manually. This question is even more critical when dealing with problems which require a high level of specialization. As an example, for detecting diseases from MRI scans, doctors with experience in diagnosing such images are required in order to classify thousands and thousands of examples.
 
 Under that scenario, devoloping methods to improve the dataset labeling workflow efficiency becomes critical. One effective option would be to partially or completelly automate the labeling process. However, when considering complex and high dimensional data not much in the labeling workflow can be automated (if you have a system able to automaticaly label your data, the problem is solved and there is no need to train a ML model whatsoever).
