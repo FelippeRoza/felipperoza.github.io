@@ -9,8 +9,7 @@ permalink: /about/
 + Artificial Intelligence and Machine Learning
   + Reinforcement learning
   + Deep learning
-  + Optimization methods
-    + p.s.: miss those times when generic algorithms were trending. Such a nice idea.
+  + Optimization
 
 + Autonomous Vehicles / Mobile Robotics
   + Modeling and simulation
