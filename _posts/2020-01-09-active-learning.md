@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Active Learning: Machine and Men working together
+title: Active Learning
 ---
 
 ## A tool for training ML models using less labeled data
