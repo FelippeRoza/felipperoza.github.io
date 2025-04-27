@@ -22,6 +22,12 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:title/
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -95,6 +101,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projects
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
