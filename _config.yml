@@ -64,7 +64,7 @@ plugins:
 author:
   name   : ""
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a Machine Learning Engineer passionate about building intelligent systems."
+  bio    : "A place to host some of my projects and interests."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

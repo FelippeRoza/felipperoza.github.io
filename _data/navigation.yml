@@ -2,11 +2,7 @@
 main:
   - title: "Projects"
     url: /projects/
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
